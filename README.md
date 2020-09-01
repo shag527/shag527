@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shagun Katoch</h1>
-<h3 align="center">A self-motivated individual who is currently exploring machine learning and deep learning</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shag527" alt="shag527" /> </p>
 
