@@ -5,7 +5,7 @@
   
                              🌱 I am currently an undergraduate student in NIT Hamirpur
 
-                                   📫 Contact me at shagunkatoch527@gmail.com
+                                   📫 Contact me at shagunkatoch1640@gmail.com
 
                                        ⚡ Fun fact: Eat-Sleep-Code-Repeat
 
