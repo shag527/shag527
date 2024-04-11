@@ -3,11 +3,11 @@
 
 
   
-                             🌱 I am currently an undergraduate student in NIT Hamirpur
+      
 
                                    📫 Contact me at shagunkatoch1640@gmail.com
 
-                                       ⚡ Fun fact: Eat-Sleep-Code-Repeat
+      
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shag527&show_icons=true" alt="shag527" /></p>
